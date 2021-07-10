@@ -1,0 +1,9 @@
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\bin\Debug\Contacts.Management.Interfaces.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\bin\Debug\Contacts.Management.Interfaces.pdb
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\bin\Debug\Contacts.Management.Models.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\bin\Debug\Contacts.Management.Models.pdb
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\obj\Debug\Contacts.Management.Interfaces.csprojAssemblyReference.cache
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\obj\Debug\Contacts.Management.Interfaces.csproj.CoreCompileInputs.cache
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\obj\Debug\Contacts.Management.Interfaces.csproj.CopyComplete
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\obj\Debug\Contacts.Management.Interfaces.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Interfaces\obj\Debug\Contacts.Management.Interfaces.pdb

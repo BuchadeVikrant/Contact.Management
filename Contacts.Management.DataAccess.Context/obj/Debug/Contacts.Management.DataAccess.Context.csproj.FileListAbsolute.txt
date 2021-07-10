@@ -1,0 +1,14 @@
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\Contacts.Management.DataAccess.Context.dll.config
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\Contacts.Management.DataAccess.Context.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\Contacts.Management.DataAccess.Context.pdb
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\Contacts.Management.Models.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\EntityFramework.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\Contacts.Management.Models.pdb
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\EntityFramework.xml
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\obj\Debug\Contacts.Management.DataAccess.Context.csprojAssemblyReference.cache
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\obj\Debug\Contacts.Management.DataAccess.Context.csproj.CoreCompileInputs.cache
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\obj\Debug\Contacts.Management.DataAccess.Context.csproj.CopyComplete
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\obj\Debug\Contacts.Management.DataAccess.Context.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.DataAccess.Context\obj\Debug\Contacts.Management.DataAccess.Context.pdb

@@ -1,0 +1,5 @@
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Models\bin\Debug\Contacts.Management.Models.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Models\bin\Debug\Contacts.Management.Models.pdb
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Models\obj\Debug\Contacts.Management.Models.csproj.CoreCompileInputs.cache
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Models\obj\Debug\Contacts.Management.Models.dll
+C:\Vikrant\Own_Study\Evolent\My_ContactManagement_API\Contacts.Management\Contacts.Management.Models\obj\Debug\Contacts.Management.Models.pdb
